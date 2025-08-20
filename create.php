@@ -30,10 +30,10 @@
     <fieldset>
 
 <form action="" method="POST">
-<h2>CREATE NEW USER</h2>
+<h2>CREATE NEW USER name</h2>
 <input type="text" name="username" placeholder="Enter your usename"><br><br>
 <input type="password" name="password" placeholder="Enter your password"><br><br>
-<button name="login">Create</button>
+<button name="login">Create an accaunt</button>
     </form></fieldset></center>
 </body>
 </html>
